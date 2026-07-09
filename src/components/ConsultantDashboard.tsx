@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useMemo } from 'react';
-import logoImg from '../assets/images/';
+import logoImg from '../assets/images/1e1b7427-be65-4259-9138-0c35a07d43ef_removalai_preview.png';
 import {
   Users,
   TrendingUp,
