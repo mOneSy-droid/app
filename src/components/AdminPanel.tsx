@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import logoImg from '../assets/images/eduvisa_logo_1782826587445.jpg';
+import logoImg from '../assets/images/1e1b7427-be65-4259-9138-0c35a07d43ef_removalai_preview.png';
 import { 
   Users, 
   FileText, 

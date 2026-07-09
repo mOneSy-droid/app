@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import AdminPanel from './components/AdminPanel';
 import ConsultantDashboard from './components/ConsultantDashboard';
-import logoImg from './assets/images/eduvisa_logo_1782826587445.jpg';
+import logoImg from './assets/images/1e1b7427-be65-4259-9138-0c35a07d43ef_removalai_preview.png';
 import { 
   Home, 
   GraduationCap, 
@@ -1413,7 +1413,7 @@ export default function App() {
                   <img src={logoImg} alt="EDUVISA Logo" className="h-8 w-8 md:h-9 md:w-9 object-contain" referrerPolicy="no-referrer" />
                 </div>
                 <span className="text-[#D6B174] font-bold text-lg md:text-2xl font-display tracking-tight">EDUVISA</span>
-                <span className="hidden sm:inline bg-[#D6B174]/10 text-[#D6B174] text-[9px] px-2 py-0.5 rounded-full border border-[#D6B174]/20 font-bold tracking-wider uppercase">PWA v2.0</span>
+                <span className="hidden sm:inline bg-[#D6B174]/10 text-[#D6B174] text-[9px] px-2 py-0.5 rounded-full border border-[#D6B174]/20 font-bold tracking-wider uppercase"></span>
               </div>
               
               <h2 className="hidden md:block text-3xl md:text-4xl font-display font-semibold leading-tight mb-4 text-[#D6B174]">
@@ -1783,7 +1783,7 @@ export default function App() {
             <div>
               <div className="flex items-center space-x-1.5">
                 <span className="text-[#D6B174] text-2xl font-bold tracking-tight font-display">EDUVISA</span>
-                <span className="text-[9px] border border-[#D6B174]/30 text-[#D6B174] rounded px-1.5 py-0.5 uppercase tracking-widest font-bold">PWA</span>
+                <span className="text-[9px] border border-[#D6B174]/30 text-[#D6B174] rounded px-1.5 py-0.5 uppercase tracking-widest font-bold"></span>
               </div>
               <p className="text-[#6A727D] text-[9px] uppercase tracking-widest mt-0.5">Premium Consulting</p>
             </div>
